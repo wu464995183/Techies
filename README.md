@@ -1,2 +1,0 @@
-# Techies
-bury point sdk
